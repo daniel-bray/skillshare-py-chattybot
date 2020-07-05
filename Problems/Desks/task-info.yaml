@@ -1,0 +1,13 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: '# put your python code here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6462
+status: Failed
+feedback:
+  message: |
+    Failed test #6 of 10. Wrong answer
+  time: Sat, 27 Jun 2020 23:33:51 UTC
+record: -1
